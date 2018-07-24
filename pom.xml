@@ -165,9 +165,11 @@
         <groupId>io.fabric8</groupId>
         <artifactId>fabric8-maven-plugin</artifactId>
         <version>1.2.0.redhat-630329</version>
+<!--
       <configuration>
         <jolokiaUrl>http://192.168.230.242:8181/jolokia</jolokiaUrl>
       </configuration>
+-->
       </plugin>
     <plugin>
       <groupId>org.apache.maven.plugins</groupId>
