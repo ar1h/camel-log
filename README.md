@@ -156,4 +156,3 @@ To stop and undeploy the example in fabric8:
 1. Select the `mychild` container in the *Containers* list, and click the *Stop* button in the top right corner
 
 
-ping
